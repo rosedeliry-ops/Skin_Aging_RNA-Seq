@@ -11,24 +11,34 @@ This repository contains the analysis of RNA-Seq data from epidermal tissues of 
 
 ### Bar Plots
 ![Top 10 Genes by Total Counts]
- figures/Barplot_Top10Genes.png
+(https://github.com/rosedeliry-ops/Skin_Aging_RNA-Seq/blob/main/figures/Barplot_Top10Genes.png)
+
 ![Top Genes Counts] 
-figures/Barplot_TopGenesCount.png
+(https://github.com/rosedeliry-ops/Skin_Aging_RNA-Seq/blob/main/figures/Barplot_TopGenesCount.png)
 ### Heatmaps
+
 ![X1_002 Heatmap] 
-figures/Heatmap_X1-002.png
+(https://github.com/rosedeliry-ops/Skin_Aging_RNA-Seq/blob/main/figures/Heatmap_X1-002.png)
+
 ![X1_002 Heatmap with Counts Scale] 
-figures/Heatmap_X1_002_scale.png
+(https://github.com/rosedeliry-ops/Skin_Aging_RNA-Seq/blob/main/figures/Heatmap_X1_002_scale.png)
+
 ![Gene ID Heatmap]
-figures/heatmap_gene_id.png
+(https://github.com/rosedeliry-ops/Skin_Aging_RNA-Seq/blob/main/figures/heatmap_gene_id.png)
+
+
 ![Top 20 Genes Heatmap]  
-figures/Heatmap_Top20Genes.png
+(https://github.com/rosedeliry-ops/Skin_Aging_RNA-Seq/blob/main/figures/Heatmap_Top20Genes.png)
+
 ![Top Genes Heatmap Log Counts] 
-figures/top_genes_heatmap_log.png
+(https://github.com/rosedeliry-ops/Skin_Aging_RNA-Seq/blob/main/figures/top_genes_heatmap_log.png)
+
+
 ### Volcano Plot
+
 ![Volcano Plot]
-figures/Volcanoplot.png
-## Description
+(https://github.com/rosedeliry-ops/Skin_Aging_RNA-Seq/blob/main/figures/Volcanoplot.png
+## Description)
 
 This analysis includes:
 
