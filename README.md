@@ -29,5 +29,3 @@ Notes
 Thresholds for differential expression: padj < 0.05, |log2FoldChange| > 1 (adjustable)
 GSEA is recommended over classical enrichment for small numbers of significant genes
 All plots are generated in R using ggplot2 and clusterProfiler
-اگر بخوای، می‌تونم همینو برات نسخه Markdown آماده برای GitHub یا PDF هم بسازم تا مستقیم آپلودش کنی.
-میخوای بسازم؟
